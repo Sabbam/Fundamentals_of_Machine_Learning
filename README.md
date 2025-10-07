@@ -7,7 +7,7 @@ Fundamentals of Machine Learning circa September 2023
 - A.1 - Data Preparation
 - A.2 - Scatterplot
 - A.3:5 - Histograms
-- A.6 Bar Chart
+- A.6 - Bar Chart
 
 ## Part B - Training Classifiers
 - B.7 - Data Preparation
